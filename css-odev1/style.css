@@ -1,0 +1,45 @@
+body {
+  background-color: #f4f9f9;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif, "Tahoma", sans-serif;
+}
+
+h1 {
+  color: #bd2000;
+}
+
+h2,
+h3,
+h4 {
+  color: #cc561e;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+p {
+  margin: 10px 20px;
+  text-align: justify;
+}
+
+.auto-margin-tables {
+  margin: auto;
+}
+
+.button-footer {
+  background-color: #cecdcd;
+  border: none;
+  color: black;
+  font-size: 16px;
+  padding: 8px 15px;
+}
+
+.footer1 {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+}
